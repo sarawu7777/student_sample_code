@@ -3,6 +3,12 @@
 Project List
 
 --Python
+  --Latent Semantic Analysis
+    Latent Semantic Analysis is an efficient way of analysing the text and finding the hidden topics by understanding the context of the text.
+
+    In this mini-project, I applied Latent Semantic Analysis on a collection of book titles and visualize the key hidden topics represented by the documents.  
+
+
   --NLP Text Classifier Project
     In this project, I designed a sentiment classifier for classifying the sentiment of the
     reviews. This is a Natural Language Processing (NLP) task where the input is a natural
