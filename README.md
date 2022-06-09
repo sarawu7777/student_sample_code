@@ -10,6 +10,7 @@ Project List
 
 
   --NLP Text Classifier Project
+    
     In this project, I designed a sentiment classifier for classifying the sentiment of the
     reviews. This is a Natural Language Processing (NLP) task where the input is a natural
     language text and output is the sentiment label. 
